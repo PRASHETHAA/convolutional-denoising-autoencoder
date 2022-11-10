@@ -106,7 +106,8 @@ plt.show()
 
 ### Original vs Noisy Vs Reconstructed Image
 
-![Screenshot from 2022-11-08 18-15-13](https://user-images.githubusercontent.com/75235212/200566863-647a6dac-83d0-48a5-87b5-c20a3b54c83d.png)
+![image](https://user-images.githubusercontent.com/75234942/201160960-37ac24f1-9943-48b5-9ad1-cea57bc7bb80.png)
+
 
 
 
