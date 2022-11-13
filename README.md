@@ -119,7 +119,7 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/75235813/201460928-c8173ced-9cd0-4a3c-a2d8-9b6ca3333738.png)
 
-![Screenshot 2022-11-13 185501](https://user-images.githubusercontent.com/75234942/201524322-ef79eeb9-cc41-41fb-9dcd-3c28d7784a98.png)
+![Screenshot 2022-11-13 190614](https://user-images.githubusercontent.com/75234942/201524599-9a2cbbce-5b1f-45ce-957e-0fffd770ba29.png)
 
 
 ### Original vs Noisy Vs Reconstructed Image
